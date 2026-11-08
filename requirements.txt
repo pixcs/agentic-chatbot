@@ -8,3 +8,4 @@ python-dotenv
 langchainhub
 ipykernel
 streamlit
+langgraph-checkpoint-sqlite

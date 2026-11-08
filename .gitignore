@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# SQLite databases (chat memory and thread titles)
+chatbot.db
+thread_titles.db
+*.db-journal
+*.db-wal
+*.db-shm

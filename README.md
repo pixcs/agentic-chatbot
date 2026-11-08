@@ -3,8 +3,11 @@
 ## Run this to your terminal
 
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 python --version
+
 which python
 
 
@@ -16,8 +19,9 @@ streamlit run app.py
 
 
 
-# this is the model im usingg 
+# this is the model im using
 qwen/qwen3.8-27b
+
 gemini-2.5-flash
 
 
